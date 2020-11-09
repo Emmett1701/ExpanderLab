@@ -1,0 +1,25 @@
+.open {
+   background-color: lightgreen;
+   display: inline-block;
+   width: 282px;
+}
+.closed {
+   background-color: salmon;
+   display: inline-block;
+   width: 282px;
+}
+.root {
+   border: blue;
+   border-style: solid;
+}
+.expanderBody {
+   padding-left: 10px;
+   display: block;
+}
+.contracted {
+   display: none;
+}
+.buttons {
+   width: 18px;
+   display: inline-block;
+}
